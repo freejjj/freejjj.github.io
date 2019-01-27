@@ -2,7 +2,7 @@
 title: 老杰 Online
 SEOTitle: 老杰 Online 
 header-img: img/post-bg-desk.jpg
-email: 1528164110@gmail.com
+email: 1528164110@qq.com
 description: "Now you see me."
 keyword: "blog"
 url: "http://freejjj.github.io"          # your host, for absolute URL
@@ -18,7 +18,7 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-# weibo_username:     
+weibo_username:   务必做一个成熟的人  
 zhihu_username:     
 github_username:    freejjj
 facebook_username:  
@@ -99,11 +99,11 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "",
-        href: ""
+        title: "csdn",
+        href: "https://www.csdn.net/"
     },{
-        title: "",
-        href: ""
+        title: "知乎",
+        href: "https://www.zhihu.com"
     },{
         title: "",
         href: ""
