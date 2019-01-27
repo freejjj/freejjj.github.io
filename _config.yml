@@ -99,14 +99,14 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "csdn",
-        href: "https://www.csdn.net/"
+        title: "Github",
+        href: "https://github.com/"
     },{
         title: "知乎",
         href: "https://www.zhihu.com"
     },{
-        title: "",
-        href: ""
+        title: "csdn",
+        href: "https://www.csdn.net/"
     },{
         title: "",
         href: ""
