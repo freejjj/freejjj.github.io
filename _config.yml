@@ -1,7 +1,7 @@
 # Site settings
 title: 老杰 Online
 SEOTitle: 老杰的博客 
-header-img: img/post-bg-desk.jpg
+header-img: img/post-bg-miui6.jpg
 email: 1528164110@qq.com
 description: "Now you see me."
 keyword: "blog"
@@ -18,7 +18,7 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-weibo_username:   务必做一个成熟的人  
+#weibo_username:    
 zhihu_username:     
 github_username:    freejjj
 facebook_username:  
